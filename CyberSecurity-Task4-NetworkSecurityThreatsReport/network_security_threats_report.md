@@ -97,5 +97,13 @@ In 2010, the "Great Firewall of China" incident involved DNS manipulation that c
 | MITM Attack | Intercepts communication between two parties to steal or modify information. | User communications and sensitive data | HTTPS, TLS certificates, MFA, VPN |
 | IP Spoofing | Uses a fake source IP address to hide the attacker's identity or bypass security controls. | Networks and connected systems | Packet filtering, IDS, authentication mechanisms |
 | DNS Poisoning | Modifies DNS records to redirect users to malicious websites. | DNS servers and users | DNSSEC, secure DNS services, monitoring |
+
+## Conclusion
+
+Network security threats such as DoS/DDoS attacks, Man-in-the-Middle attacks, IP Spoofing, and DNS Poisoning pose serious risks to modern digital systems. These attacks can result in service disruption, data theft, unauthorized access, and loss of privacy.
+
+Understanding how these threats work and implementing proper security measures such as encryption, authentication, monitoring, firewalls, and secure network practices can help organizations reduce risks and protect their valuable information.
+
+Continuous security awareness and proactive defense strategies are essential for maintaining a safe and reliable network environment.
 3. Enable Multi-Factor Authentication (MFA) for important accounts.
 4. Avoid using unsecured public Wi-Fi, or use a trusted VPN when connected to public networks.
