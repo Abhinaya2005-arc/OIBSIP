@@ -13,3 +13,20 @@ Social engineering attacks are dangerous because they target the human element o
 ### Statistics
 
 According to the Verizon Data Breach Investigations Report (DBIR), the human element continues to play a major role in many data breaches, with social engineering techniques such as phishing being among the most common attack methods.
+
+
+## Phishing
+
+### Definition
+
+...
+
+### Types of Phishing
+
+#### 1. Spear Phishing
+
+...
+
+#### 2. Whaling
+
+...
