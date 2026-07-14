@@ -64,5 +64,29 @@ In 2018, a large-scale DDoS attack against GitHub involved attackers using IP sp
 ### Mitigation Strategies
 
 1. Always use HTTPS with valid TLS/SSL certificates.
-2. Enable Multi-Factor Authentication (MFA) for important accounts.
-3. Avoid using unsecured public Wi-Fi, or use a trusted VPN when connected to public networks.
+
+   ## 4. DNS Poisoning
+
+### Explanation
+
+DNS Poisoning, also known as DNS Cache Poisoning, is an attack where an attacker corrupts the Domain Name System (DNS) cache by inserting false DNS records. This redirects users to malicious websites instead of the legitimate websites they intended to visit.
+
+### Real-World Example
+
+In 2010, the "Great Firewall of China" incident involved DNS manipulation that caused users outside China to be redirected to unintended websites due to incorrect DNS responses.
+
+### Impact
+
+* Redirection of users to fake or malicious websites.
+* Theft of login credentials and sensitive information.
+* Spread of malware through malicious websites.
+* Loss of user trust and privacy.
+
+### Mitigation Strategies
+
+1. Use DNS Security Extensions (DNSSEC) to verify DNS responses.
+2. Keep DNS servers updated and properly configured.
+3. Use secure DNS services and avoid suspicious links.
+4. Monitor DNS traffic for unusual activities.
+3. Enable Multi-Factor Authentication (MFA) for important accounts.
+4. Avoid using unsecured public Wi-Fi, or use a trusted VPN when connected to public networks.
