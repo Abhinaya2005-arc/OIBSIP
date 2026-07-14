@@ -37,6 +37,30 @@ In 2011, attackers used fraudulent digital certificates issued by the compromise
 * Loss of privacy and confidentiality.
 * Financial and reputational damage.
 
+## 3. IP Spoofing
+
+### Explanation
+
+IP Spoofing is a technique where an attacker changes the source IP address in network packets to make them appear as if they are coming from a trusted device or system. Attackers use this method to hide their real identity, bypass security controls, or launch attacks such as Denial-of-Service (DoS).
+
+### Real-World Example
+
+In 2018, a large-scale DDoS attack against GitHub involved attackers using IP spoofing techniques to generate massive amounts of traffic, causing temporary service disruption.
+
+### Impact
+
+* Difficulty in identifying the real attacker.
+* Unauthorized access attempts and security breaches.
+* Network disruption through spoofed traffic.
+* Increased risk of DoS and DDoS attacks.
+
+### Mitigation Strategies
+
+1. Use network filtering techniques such as ingress and egress filtering.
+2. Enable authentication mechanisms to verify trusted devices.
+3. Monitor network traffic for unusual or suspicious IP activity.
+4. Use firewalls and intrusion detection systems (IDS) to detect spoofed packets.
+
 ### Mitigation Strategies
 
 1. Always use HTTPS with valid TLS/SSL certificates.
