@@ -105,5 +105,22 @@ Network security threats such as DoS/DDoS attacks, Man-in-the-Middle attacks, IP
 Understanding how these threats work and implementing proper security measures such as encryption, authentication, monitoring, firewalls, and secure network practices can help organizations reduce risks and protect their valuable information.
 
 Continuous security awareness and proactive defense strategies are essential for maintaining a safe and reliable network environment.
+
+## References
+
+1. Cisco. "Cybersecurity Threats and Solutions."  
+   https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html
+
+2. Cloudflare. "What is a DDoS Attack?"  
+   https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/
+
+3. Cloudflare. "What is a Man-in-the-Middle Attack?"  
+   https://www.cloudflare.com/learning/security/threats/man-in-the-middle-attack/
+
+4. IBM. "What is DNS Spoofing?"  
+   https://www.ibm.com/topics/dns-spoofing
+
+5. Palo Alto Networks. "IP Spoofing Explained."  
+   https://www.paloaltonetworks.com/cyberpedia/ip-spoofing
 3. Enable Multi-Factor Authentication (MFA) for important accounts.
 4. Avoid using unsecured public Wi-Fi, or use a trusted VPN when connected to public networks.
