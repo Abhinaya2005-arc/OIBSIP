@@ -88,5 +88,14 @@ In 2010, the "Great Firewall of China" incident involved DNS manipulation that c
 2. Keep DNS servers updated and properly configured.
 3. Use secure DNS services and avoid suspicious links.
 4. Monitor DNS traffic for unusual activities.
+
+   ## Comparison of Network Security Threats
+
+| Threat Type | Description | Main Target | Common Prevention Methods |
+|-------------|-------------|-------------|--------------------------|
+| DoS/DDoS Attack | Overwhelms a system or network with excessive traffic to make services unavailable. | Servers and online services | Firewalls, traffic filtering, DDoS protection services |
+| MITM Attack | Intercepts communication between two parties to steal or modify information. | User communications and sensitive data | HTTPS, TLS certificates, MFA, VPN |
+| IP Spoofing | Uses a fake source IP address to hide the attacker's identity or bypass security controls. | Networks and connected systems | Packet filtering, IDS, authentication mechanisms |
+| DNS Poisoning | Modifies DNS records to redirect users to malicious websites. | DNS servers and users | DNSSEC, secure DNS services, monitoring |
 3. Enable Multi-Factor Authentication (MFA) for important accounts.
 4. Avoid using unsecured public Wi-Fi, or use a trusted VPN when connected to public networks.
